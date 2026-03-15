@@ -21,8 +21,11 @@ In this home lab, our focus will be on utilizing Windows 10 Remote Management, R
 
 
 
-1. <p align="center">
+1. ![Remote Access 1](https://github.com/RedFORce1994/Remote-Administration/blob/main/Remote%20Administration%20Part%201.jpg?raw=true)
+
+Choose "Add", then include Helpdesk, followed by selecting "OK" and then "Apply".
+
+
+
+
    
-   <br />
-   <br />
-</p>
